@@ -1,0 +1,19 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE config files
+*.iml
+.idea/
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
