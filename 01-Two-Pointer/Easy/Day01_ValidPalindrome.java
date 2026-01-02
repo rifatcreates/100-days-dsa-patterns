@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class ValidPalindrome {
+public class Day01_ValidPalindrome {
     public static boolean isPalindrome(String s) {
         s = s.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
 

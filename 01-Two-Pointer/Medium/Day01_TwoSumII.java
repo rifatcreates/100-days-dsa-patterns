@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class TwoSumII {
+public class Day01_TwoSumII {
     public static int[] twoSumII(int numbers[], int target) {
         int left = 0;
         int right = numbers.length-1;
