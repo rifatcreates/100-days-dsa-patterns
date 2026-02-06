@@ -81,7 +81,6 @@ public class Day35_LC_0024 {
         return res;
     }
 
-    // ===== Main =====
     public static void main(String[] args) {
         ListNode head = new ListNode(1);
         head.next = new ListNode(2);
